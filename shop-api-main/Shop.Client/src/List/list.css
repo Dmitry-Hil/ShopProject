@@ -1,0 +1,16 @@
+.item-list {
+  gap: 10px;
+}
+
+.text-body {
+  font-size: 1.2rem;
+  color: rgba(0, 0, 0, 0.9);
+}
+
+.text-body_accent {
+  background: linear-gradient(90deg, #39c7ec, #39c7ec, #0050ec);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
